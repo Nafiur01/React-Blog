@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum er baccha suwor er baacha ",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum...",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "5559",
+      "title": "im sad ",
+      "body": "onkdin hye gese arvalo lagtese na ",
+      "author": "Mario"
+    },
+    {
+      "id": "1668",
+      "title": "hey how are you",
+      "body": "ekhane onak kecu laka gaba ",
+      "author": "Yoshi"
+    },
+    {
+      "id": "74d4",
+      "title": "sdadas",
+      "body": "dasda",
+      "author": "Yoshi"
+    },
+    {
+      "id": "a8b0",
+      "title": "dasdas",
+      "body": "dasdasdasda",
+      "author": "Yoshi"
+    },
+    {
+      "id": "ea63",
+      "title": "dasdasccc",
+      "body": "vcvcvcvvcvc",
+      "author": "Yoshi"
+    }
+  ]
+}
